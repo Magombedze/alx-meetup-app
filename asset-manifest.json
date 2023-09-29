@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Meetup-Alx/static/css/main.920c75b1.css",
+    "main.js": "/Meetup-Alx/static/js/main.814de0b5.js",
+    "index.html": "/Meetup-Alx/index.html",
+    "main.920c75b1.css.map": "/Meetup-Alx/static/css/main.920c75b1.css.map",
+    "main.814de0b5.js.map": "/Meetup-Alx/static/js/main.814de0b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.920c75b1.css",
+    "static/js/main.814de0b5.js"
+  ]
+}
