@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/alx-meetup-app/static/css/main.920c75b1.css",
-    "main.js": "/alx-meetup-app/static/js/main.ae315c19.js",
+    "main.js": "/alx-meetup-app/static/js/main.996753a6.js",
     "index.html": "/alx-meetup-app/index.html",
     "main.920c75b1.css.map": "/alx-meetup-app/static/css/main.920c75b1.css.map",
-    "main.ae315c19.js.map": "/alx-meetup-app/static/js/main.ae315c19.js.map"
+    "main.996753a6.js.map": "/alx-meetup-app/static/js/main.996753a6.js.map"
   },
   "entrypoints": [
     "static/css/main.920c75b1.css",
-    "static/js/main.ae315c19.js"
+    "static/js/main.996753a6.js"
   ]
 }
