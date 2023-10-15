@@ -10,7 +10,7 @@ function App() {
   return (
     <Layout>
       <Switch>
-        <Route path="/" exact>
+        <Route path="/alx-meetup-app" exact>
           <AllMeetupsPage />
         </Route>
         <Route path="/new-meetup">
