@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/alx-meetup-app/static/css/main.920c75b1.css",
-    "main.js": "/alx-meetup-app/static/js/main.996753a6.js",
-    "index.html": "/alx-meetup-app/index.html",
-    "main.920c75b1.css.map": "/alx-meetup-app/static/css/main.920c75b1.css.map",
-    "main.996753a6.js.map": "/alx-meetup-app/static/js/main.996753a6.js.map"
+    "main.css": "/alx-meetup-application/static/css/main.920c75b1.css",
+    "main.js": "/alx-meetup-application/static/js/main.996753a6.js",
+    "index.html": "/alx-meetup-application/index.html",
+    "main.920c75b1.css.map": "/alx-meetup-application/static/css/main.920c75b1.css.map",
+    "main.996753a6.js.map": "/alx-meetup-application/static/js/main.996753a6.js.map"
   },
   "entrypoints": [
     "static/css/main.920c75b1.css",
