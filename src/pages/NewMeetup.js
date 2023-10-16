@@ -4,16 +4,13 @@ import NewMeetupForm from "../components/meetups/NewMeetup";
 function NewMeetupsPage() {
   const history = useHistory();
   function onAddMeetupHandler(meetupData) {
-    fetch(
-      "https://react-getting-started-a9e55-default-rtdb.firebaseio.com/meetups.json",
-      {
-        method: "POST",
-        body: JSON.stringify(meetupData),
-        headers: {
-          "Content-Type": "application/json",
-        },
-      }
-    ).then(() => {
+    fetch("https://alx-meetup-app-default-rtdb.firebaseio.com/meetups.json", {
+      method: "POST",
+      body: JSON.stringify(meetupData),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    }).then(() => {
       history.replace("/");
     });
   }

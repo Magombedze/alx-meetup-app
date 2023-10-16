@@ -6,9 +6,7 @@ function AllMeetupsPage() {
   const [loadedMeetups, SetloadedMeetups] = useState([]);
   useEffect(() => {
     setIsLoading(true);
-    fetch(
-      "https://react-getting-started-a9e55-default-rtdb.firebaseio.com/meetups.json"
-    )
+    fetch("https://alx-meetup-app-default-rtdb.firebaseio.com/meetups.json")
       .then((response) => {
         return response.json();
       })
